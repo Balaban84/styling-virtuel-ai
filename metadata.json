@@ -1,0 +1,7 @@
+{
+  "name": "Styling Virtuel AI",
+  "description": "Une application d'essayage virtuel de vêtements propulsée par l'IA Gemini pour visualiser vos tenues sur des modèles personnalisables.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
